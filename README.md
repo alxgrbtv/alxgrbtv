@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alxgrbtv
 - 👀 I’m interested in (mobile design) and (mobile development)
-- 🌱 I’m currently (learning Android development) and (working on some interesting project)
+- 🌱 I’m currently (learning Android development)
 - 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me -> (telegram == @alxgrbtv) or (instagram == @iamgorbatoff)
 
